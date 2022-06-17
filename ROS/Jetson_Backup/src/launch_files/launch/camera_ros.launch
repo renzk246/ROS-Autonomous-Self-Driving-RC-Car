@@ -1,0 +1,6 @@
+<launch>
+
+<node name="webcam1" pkg="vision" type="camera_node.py" output="screen" respawn="true"/>
+<node name="receiver" pkg="vision" type="image_subscriber.py" output="screen" respawn="true"/>
+
+</launch>

@@ -1,0 +1,8 @@
+prefix=/media/flakka/EXT/Github/ROS/Jetson_Backup/devel
+
+Name: arduino_custom
+Description: Description of arduino_custom
+Version: 0.0.0
+Cflags: -I/media/flakka/EXT/Github/ROS/Jetson_Backup/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

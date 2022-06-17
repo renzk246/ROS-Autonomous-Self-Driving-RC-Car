@@ -1,0 +1,3 @@
+bool object_detected
+float32 inference_object
+float32 inference_drive

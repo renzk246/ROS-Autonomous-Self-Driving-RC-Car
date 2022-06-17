@@ -1,0 +1,8 @@
+prefix=/media/flakka/EXT/Github/ROS/Jetson_Backup/devel
+
+Name: auto_drive
+Description: Description of auto_drive
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

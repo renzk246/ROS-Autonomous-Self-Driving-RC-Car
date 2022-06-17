@@ -70,9 +70,13 @@ DETECTION FOR COLLISION PREVENTION</h2>
 
 Below are the demo videos of the prototype using Behavioral Cloning Only and with additional Object Detection Model.
 
-[![Behavioral Cloning Only Test](https://img.youtube.com/vi/A1P0vgLuSRc/0.jpg)](https://www.youtube.com/watch?v=A1P0vgLuSRc "Behavioral Cloning Only Test")
+<div align="center">
+  <h5>Behavioral Cloning Only Test</h5>
+  <a href="https://www.youtube.com/watch?v=A1P0vgLuSRc"><img src="https://img.youtube.com/vi/A1P0vgLuSRc/0.jpg" alt="Behavioral Cloning Only Test"></a>
 
-[![Behavioral Cloning with Object Detection Test](https://img.youtube.com/vi/WgdoCgZTnA0/0.jpg)](https://www.youtube.com/watch?v=WgdoCgZTnA0 "Behavioral Cloning with Object Detection Test")
+  <h5>Behavioral Cloning with Object Detection Test</h5>
+  <a href="https://www.youtube.com/watch?v=WgdoCgZTnA0"><img src="https://img.youtube.com/vi/WgdoCgZTnA0/0.jpg" alt="Behavioral Cloning Only Test"></a>
+</div>
 
 ### Prerequisites
 

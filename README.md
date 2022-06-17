@@ -42,7 +42,7 @@ Below are the demo videos of the prototype using Behavioral Cloning Only and wit
 
 <div align="center">
   <h5>Behavioral Cloning Only Test</h5>
-  <a href="https://www.youtube.com/watch?v=A1P0vgLuSRc" targer="_blank"><img src="https://img.youtube.com/vi/A1P0vgLuSRc/0.jpg" alt="Behavioral Cloning Only Test"></a>
+  <a href="https://www.youtube.com/watch?v=A1P0vgLuSRc" target="_blank"><img src="https://img.youtube.com/vi/A1P0vgLuSRc/0.jpg" alt="Behavioral Cloning Only Test"></a>
 
   <h5>Behavioral Cloning with Object Detection Test</h5>
   <a href="https://www.youtube.com/watch?v=WgdoCgZTnA0" target="_blank"><img src="https://img.youtube.com/vi/WgdoCgZTnA0/0.jpg" alt="Behavioral Cloning Only Test"></a>

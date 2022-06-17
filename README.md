@@ -13,7 +13,6 @@ DETECTION FOR COLLISION PREVENTION</h2>
     <a href="https://www.researchgate.net/publication/361361254_ROS_BASED_SELF-DRIVING_RC_CAR_WITH_TENSORRT_INTEGRATION_IN_REDUCING_BEHAVIORAL_CLONING_LATENCY_AND_OBJECT_DETECTION_FOR_COLLISION_PREVENTION"><strong>Explore the full thesis here»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
   </p>
 </div>
 
@@ -67,10 +66,13 @@ DETECTION FOR COLLISION PREVENTION</h2>
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Demo Video
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Below are the demo videos of the prototype using Behavioral Cloning Only and with additional Object Detection Model.
+
+[![Behavioral Cloning Only Test](https://img.youtube.com/vi/A1P0vgLuSRc/0.jpg)](https://www.youtube.com/watch?v=A1P0vgLuSRc "Behavioral Cloning Only Test")
+
+[![Behavioral Cloning with Object Detection Test](https://img.youtube.com/vi/WgdoCgZTnA0/0.jpg)](https://www.youtube.com/watch?v=WgdoCgZTnA0 "Behavioral Cloning with Object Detection Test")
 
 ### Prerequisites
 

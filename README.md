@@ -16,36 +16,6 @@ DETECTION FOR COLLISION PREVENTION</h2>
   </p>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -65,83 +35,40 @@ DETECTION FOR COLLISION PREVENTION</h2>
 * [TensorRT](https://docs.nvidia.com/deeplearning/frameworks/tf-trt-user-guide/index.html)
 
 
-<!-- GETTING STARTED -->
+<!-- Demo Video -->
 ## Demo Video
 
 Below are the demo videos of the prototype using Behavioral Cloning Only and with additional Object Detection Model.
 
 <div align="center">
   <h5>Behavioral Cloning Only Test</h5>
-  <a href="https://www.youtube.com/watch?v=A1P0vgLuSRc"><img src="https://img.youtube.com/vi/A1P0vgLuSRc/0.jpg" alt="Behavioral Cloning Only Test"></a>
+  <a href="https://www.youtube.com/watch?v=A1P0vgLuSRc" targer="_blank"><img src="https://img.youtube.com/vi/A1P0vgLuSRc/0.jpg" alt="Behavioral Cloning Only Test"></a>
 
   <h5>Behavioral Cloning with Object Detection Test</h5>
-  <a href="https://www.youtube.com/watch?v=WgdoCgZTnA0"><img src="https://img.youtube.com/vi/WgdoCgZTnA0/0.jpg" alt="Behavioral Cloning Only Test"></a>
+  <a href="https://www.youtube.com/watch?v=WgdoCgZTnA0" target="_blank"><img src="https://img.youtube.com/vi/WgdoCgZTnA0/0.jpg" alt="Behavioral Cloning Only Test"></a>
 </div>
 
-### Prerequisites
+<!-- Behavioral Cloning Model -->
+### Behavioral Cloning Model
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Two convolutional neural networks that were used in the prototype are introduced. It contains an overview regarding how it was constructed in the program using the TensorFlow framework, which can be found in the `model.py` script.
 
-### Installation
+<div align="center">
+  <h5>Second Behavioral Cloning Model</h5>
+  <img src="/images/1st_CNN.jpg" alt="First Behavioral Cloning Model">
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+  <h5>Second Behavioral Cloning Model</h5>
+  <img src="/images/2nd_CNN.jpg" alt="Second Behavioral Cloning Model">
+</div>
 
+<!-- Robot Operating System (ROS) -->
+### Robot Operating System (ROS)
+In the study, Robot Operating System (ROS) were used as a middleware platform of the prototype. The figure below shows the ROS Map of the system.
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
+<div align="center">
+  <h5>Second Behavioral Cloning Model</h5>
+  <img src="/images/ros_map.png" alt="ROS MAP">
+</div>
 
 
 <!-- LICENSE -->

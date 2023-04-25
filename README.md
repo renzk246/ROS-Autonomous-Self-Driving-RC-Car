@@ -81,9 +81,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Renzo Monteadora
-Linkedin: [Renzo Llenard Monteadora](https://www.linkedin.com/in/renzo-llenard-monteadora-791205172/)
-Twitter: [@renzo_llenard](https://twitter.com/renzo_llenard)
-Email: renzk246@gmail.com
+
+ * Linkedin: [Renzo Llenard Monteadora](https://www.linkedin.com/in/renzo-llenard-monteadora-791205172/)
+ * Twitter: [@renzo_llenard](https://twitter.com/renzo_llenard)
+ * Email: renzk246@gmail.com
 
 Project Link: [https://github.com/renzk246/ROS-BASED-SELF-DRIVING-RC-CAR-WITH-TENSORRT-INTEGRATION-IN-REDUCING-BEHAVIORAL-CLONING-LATENCY-AND-O](https://github.com/renzk246/ROS-BASED-SELF-DRIVING-RC-CAR-WITH-TENSORRT-INTEGRATION-IN-REDUCING-BEHAVIORAL-CLONING-LATENCY-AND-O)
 
